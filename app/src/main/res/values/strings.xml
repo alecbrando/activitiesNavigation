@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jun29HW</string>
+    <string name="wName">What\'s your name?</string>
+    <string name="labelName">First Name</string>
+    <string name="labelSurname">Surname</string>
+    <string name="aEmail">And, your email?</string>
+    <string name="labelEmail">Email Address</string>
+    <string name="labelNext">Next</string>
+    <string name="cPassword">Create a password</string>
+    <string name="labelPassword">Password</string>
+    <string name="done">Well done! \n Sign up complete</string>
+</resources>
